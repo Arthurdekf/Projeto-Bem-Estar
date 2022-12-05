@@ -1,104 +1,25 @@
-﻿UNIVERSIDADE DE RIBEIRÃO PRETO ENGENHARIA DE SOFTWARE
+# UNIVERSIDADE DE RIBEIRÃO PRETO ENGENHARIA DE SOFTWARE
 
+### Arthur Fedeli – RA:837032 
+### João Victor – RA:837396 
+### Yuri Martins – RA:837354
 
+## EVENTO: BEM ESTAR NO SHOPPING
 
-
-
-
-
-Arthur Fedeli – RA:837032 João Victor – RA:837396 Yuri Martins – RA:837354
-
-
-
-
-
-
-
-
-EVENTO: BEM ESTAR NO SHOPPING
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-RIBEIRÃO PRETO
-
--2022-
-
-Arthur Fedeli – RA:837032 João Victor – RA:837396 Yuri Martins – RA:837354
-
-
-
-
-
-EVENTO: BEM ESTAR NO SHOPPING
-
-
-
-
+RIBEIRÃO PRETO, 2022.
 
 Trabalho entregue para obtenção de parte da nota da Disciplina de **Programação para Web II** do curso de Engenharia de software, turma 3º etapa.
 
 Docente: Prof. Fabiano Goncalves dos Santos. Dedicamos também como atividade avaliativa para obtenção de parte da nota da Disciplina de **Gestão de Projetos**. Docente: Prof. Alexandre da Silva Mello.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-RIBEIRÃO PRETO
-
--2022-
-
 **SUMÁRIO**
 
 1. [DISCIPLINAS RELACIONADAS A CONSTRUÇÃO DO PROJETO	4](#_bookmark0)
-1. [EQUIPAMENTOS E SOFTWARES USADOS	5](#_TOC_250006)
-1. [DESCRIÇÃO DO SITE PROPOSTO	6](#_TOC_250005)
-1. ESTRTURA DO SITE[	6](#_TOC_250004)
-
-5 MAPA DO SITE[	6](#_TOC_250003)
-
-6 CONCLUSÃO[	6](#_TOC_250002)
-
-
-
-
-
-
-
-
-
-
-
+2. [EQUIPAMENTOS E SOFTWARES USADOS	5](#_TOC_250006)
+3. [DESCRIÇÃO DO SITE PROPOSTO	6](#_TOC_250005)
+4. ESTRTURA DO SITE[	6](#_TOC_250004)
+5. MAPA DO SITE[	6](#_TOC_250003)
+6. CONCLUSÃO[	6](#_TOC_250002)
 
 **SUMÁRIO DE ILUSTRAÇÕES**
 
