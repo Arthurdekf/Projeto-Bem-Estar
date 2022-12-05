@@ -124,7 +124,7 @@ Figura 13. (Projeto: Tela de cadastro do paciente)
 
 Figura 14. (Mapa do site: Fluxo do sistema)
 
-###6. CONCLUSÃO
-#
-# `			`Nesta primeira etapa, foram desenvolvidas toda parte de gestão e do protótipo do front-end, tendo início e preparo para etapas futuras do desenvolvimento do back-end. Por tanto, concluindo a parte do front-end completa (HTML, CCS, JavaScript com Bootstrap), fizemos também o backlog do produto e toda administração do tempo e recursos, implementações que serão utilizadas na próxima etapa na parte de Programação Orientada a Objeto e do banco de dados, duas disciplinas quais tivemos dificuldade de aplicar no projeto e o grupo teve que disponibilizar mais tempo durante o decorrer do projeto para estudar antes de desenvolver a aplicação do site.
-# `			`O orçamento do projeto completo incluindo o banco de dados, páginas web e configurações tem o valor de R$ 1600,00. O tempo gasto com pesquisas e estudos para a realização do projeto não foi levado em consideração para o orçamento final do projeto.
+### 6. CONCLUSÃO
+
+ `			`Nesta primeira etapa, foram desenvolvidas toda parte de gestão e do protótipo do front-end, tendo início e preparo para etapas futuras do desenvolvimento do back-end. Por tanto, concluindo a parte do front-end completa (HTML, CCS, JavaScript com Bootstrap), fizemos também o backlog do produto e toda administração do tempo e recursos, implementações que serão utilizadas na próxima etapa na parte de Programação Orientada a Objeto e do banco de dados, duas disciplinas quais tivemos dificuldade de aplicar no projeto e o grupo teve que disponibilizar mais tempo durante o decorrer do projeto para estudar antes de desenvolver a aplicação do site.
+`			`O orçamento do projeto completo incluindo o banco de dados, páginas web e configurações tem o valor de R$ 1600,00. O tempo gasto com pesquisas e estudos para a realização do projeto não foi levado em consideração para o orçamento final do projeto.
