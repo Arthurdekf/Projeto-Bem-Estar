@@ -23,7 +23,8 @@ Docente: Prof. Fabiano Goncalves dos Santos. Dedicamos também como atividade av
 
 **SUMÁRIO DE ILUSTRAÇÕES**
 
-Figura 1 Quadro do Trello	5
+
+Figura 1 Quadro do Trello
 
 [Figura 2 Chamada no Discord	](#_bookmark0)5
 
